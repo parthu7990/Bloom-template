@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/59991427-35ed-4725-9fc1-ea704
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+[Live Preview](https://parthu7990.github.io/Bloom-template/)
