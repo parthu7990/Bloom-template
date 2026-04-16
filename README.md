@@ -7,7 +7,7 @@
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/59991427-35ed-4725-9fc1-ea704b9f8b60
-
+[Live Preview](https://parthu7990.github.io/Bloom-template/)
 ## Run Locally
 
 **Prerequisites:**  Node.js
@@ -18,4 +18,3 @@ View your app in AI Studio: https://ai.studio/apps/59991427-35ed-4725-9fc1-ea704
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
-[Live Preview](https://parthu7990.github.io/Bloom-template/)
