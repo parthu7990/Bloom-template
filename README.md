@@ -6,9 +6,6 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/59991427-35ed-4725-9fc1-ea704b9f8b60
-## Run Locally
-
 **Prerequisites:**  Node.js
 
 [Live Preview](https://parthu7990.github.io/Bloom-template/)
